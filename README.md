@@ -10,8 +10,8 @@
 
 <p align='center'>
   <a > <img align='left' src="https://github-readme-stats.vercel.app/api?username=FranciscaDB&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_rank=true"/> <a>
-  <a > <img src="https://media.tenor.com/rYBgjsA-wZYAAAAi/doraemon.gif" width="110"/> <a>
+  <a > <img src="https://media.tenor.com/rYBgjsA-wZYAAAAi/doraemon.gif" width="200"/> <a>
   <a > &nbsp&nbsp&nbsp  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscaDB&layout=compact&theme=transparent&hide_border=true"/> <a>
 </p>
-    <br><br><br><br><br><br><br>
+    <br><br><br><br><br>
 <p align='center'> <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscaDB&theme=transparent&border=61dafb&hide_border=true"/> <a>
